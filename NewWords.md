@@ -63,6 +63,8 @@ optimal ˈɒptɪməl 最佳的
 concrete 美 / ˈkɑːŋkriːt 具体的
 make sense to do 使得做的有意义
 grinding  无休止的 adj    磨碎 磨 v
+even 甚至
+
 corollary 美 / ˈkɔːrəleri 推论必然的结果
 sign 美 / saɪn  签名 手势 符号
 formal /forml 正式的
