@@ -73,3 +73,10 @@ contradiction 美 / ˌkɑːntrəˈdɪkʃn 对立矛盾
 ontion 美 / ˈnoʊʃn 注意
 consistent 一致的，连续的
 merely 美 / ˈmɪrli 仅仅 只不过
+manipulate /美 / məˈnɪpjuleɪt 操作
+respectively 美 / rɪˈspektɪvli 各自，分别的
+despite 美 / dɪˈspaɪt 尽管
+linguistic 美 / lɪŋˈɡwɪstɪk 语言学
+substitution  交换
+even 甚至  even if 即使
+induction 归纳
