@@ -80,3 +80,6 @@ linguistic 美 / lɪŋˈɡwɪstɪk 语言学
 substitution  交换
 even 甚至  even if 即使
 induction 归纳
+relegated 美 / ˈrelɪɡeɪtɪd 降低 使降低 
+discuss 美 / dɪˈskʌs  讨论
+emphasize 美 / ˈemfəsaɪz 强调
