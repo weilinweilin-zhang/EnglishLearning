@@ -83,3 +83,19 @@ induction 归纳
 relegated 美 / ˈrelɪɡeɪtɪd 降低 使降低 
 discuss 美 / dɪˈskʌs  讨论
 emphasize 美 / ˈemfəsaɪz 强调
+concentrates on 专注于
+interval 间隔
+constrain 美 / kənˈstreɪn 约束限制
+contrary ˈkɑːntreri , kənˈtreri 相反的
+denote 表示 标志
+comjunction with 结合
+intersection 交点 相交
+logarithms 对数
+trigonometry 三角学
+sphere 球体  sfie
+grant 授予 
+for granted 理所应当的
+vagrant 流浪者
+perimeter 周长 
+orthogonal 正交的
+take advantage of 利用
