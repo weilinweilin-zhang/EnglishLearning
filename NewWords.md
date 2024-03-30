@@ -99,3 +99,5 @@ vagrant 流浪者
 perimeter 周长 
 orthogonal 正交的
 take advantage of 利用
+swift 迅速的
+brutal 残忍的
