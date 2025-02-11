@@ -101,3 +101,6 @@ orthogonal 正交的
 take advantage of 利用
 swift 迅速的
 brutal 残忍的
+hurdle 栏栅栏，阻碍
+adventure 冒险
+perpendicular 垂直
