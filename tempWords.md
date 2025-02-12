@@ -1,9 +1,14 @@
-regularly 经常的
-literally 字面上的，实际的
-nasty 肮脏的
-childish 幼稚的
-sly 狡猾的 偷偷的
-weird 诡异的
-pervert 性变态者
-dialogue 对话
-digest 吸收整理
+inquisition  盘问 责难
+naked 裸体
+horror 恐惧 horrible 
+cursing 诅咒 咒骂
+entertaining 有趣的
+voluntarily 自愿的
+irresponsible 不负责的
+surgery 手术
+strike 攻击 罢工 strking 惊人的
+undress 脱衣
+spot 斑点  少量 spot hair 秃顶
+clinic 诊所
+waiver 弃权声明 ，sign a waiver 签署弃权
+healing 治疗
