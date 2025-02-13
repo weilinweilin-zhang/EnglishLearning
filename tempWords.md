@@ -12,3 +12,11 @@ spot 斑点  少量 spot hair 秃顶
 clinic 诊所
 waiver 弃权声明 ，sign a waiver 签署弃权
 healing 治疗
+
+comfession 表白 忏悔 
+constant 不变的
+go on 持续
+endless 无休止
+insult 侮辱
+bully 凌辱
+missile 导弹
