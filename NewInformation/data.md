@@ -72,8 +72,7 @@ w 本质像奶子
 cow  母牛
 sow  母猪，播种  --seed 种子  semen  男人的种子，精子
 soil 土壤 -- solid 固体的  liquid 液体
-weed 杂草 reed 芦苇
-
+weed 杂草 reed 芦苇  
 
 leader lea der ~ li dao 领导
 dealer dea le daili 代理
@@ -82,9 +81,7 @@ dealership  -- dai li shang 代理商
 rely 依赖 yi lai 依靠
 recourse 依靠 ri ko s yikao
 pretty piao liang de 漂亮的
-
 barrier -阻力   
-
 
 25-2-18
 连锁法 - 字母相似
