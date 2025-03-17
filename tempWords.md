@@ -20,3 +20,9 @@ endless 无休止
 insult 侮辱
 bully 凌辱
 missile 导弹
+glue 
+clue  cue 暗示
+diary 日记
+dictionary 词典
+dictionary 
+diction 
