@@ -25,3 +25,4 @@ cheat 欺骗
 
 angry
 anguish
+anguish
